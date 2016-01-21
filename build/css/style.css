@@ -326,7 +326,7 @@ section {
       text-decoration: none; }
 
 .page-section__introduction {
-  padding: 4vw 0;
+  padding: 0;
   text-align: center; }
   .page-section__introduction .book-cover {
     width: 100%;
